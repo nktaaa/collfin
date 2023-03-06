@@ -1,0 +1,16 @@
+:root{
+    --st-primary: #ec197b; 
+    --st-primary-light: #f75fa6;
+    --st-primary-dark: #db2777;
+    --st-light-pink: #ffeff8;
+    --st-secondary: #1dd396;
+    --st-secondary-dark: #10ac78;
+    --st-primary-text: #343e4d;
+    --st-yellow: #fde047;
+    --st-blue: #38bdf8;
+    --st-orange: #fb923c;
+    --st-mid-red: #e61934;
+    --st-light-grey: #e8ebf0;
+    --st-white: #fafafa;
+    --st-main-text: 'Poppins', sans-serif;
+}
