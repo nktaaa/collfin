@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# collFin
+Made with love as a part of Geeks-for-Geeks Solving for India Hackathon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
