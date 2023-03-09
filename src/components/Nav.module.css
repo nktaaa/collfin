@@ -1,0 +1,23 @@
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    color: var(--st-primary);
+    padding: 0.5rem 1.5rem;
+    position: sticky;
+    z-index: 100000;
+}
+.navLogo{
+    display: flex;
+    gap: 1rem;
+    font-size: 2rem;
+}
+.icon{
+    color:var(--st-primary);
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin: auto;
+    font-family: var(--st-main-text);
+}
+.icon:hover{
+    color: var(--st-primary-dark);
+}
