@@ -1,8 +1,11 @@
 @import './stylesheets/variables.css';
 @import './stylesheets/typography.css';
 @import './stylesheets/reset.css';
-@import './components/Nav.module.css';
-@import './components/Footer.module.css';
-@import './components/Page.module.css';
-@import './components/Loginpage.module.css';
 
+
+
+
+
+
+@import './components/Animation.module.css';
+@import './components/HeroPage.module.css';
