@@ -1,0 +1,82 @@
+.boxContainer{
+    background-color:#f9f9f9;
+    margin: auto;
+}
+.loginContainer{
+    padding: 0.5rem;
+    margin:2rem ;
+    border: 0.25rem  var(--st-primary-text);
+    border-radius: 1rem;
+    width: 50%;
+    height: 30rem;
+    display: flex;
+    flex-flow: column wrap;
+    background-color:#ffeacf ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    overflow-wrap: break-word;
+    object-position:right;
+    position: relative;
+}
+
+.loginContainer2{
+    padding: 0.5rem;
+    margin:2rem ;
+    border: 0.25rem  var(--st-primary-text);
+    border-radius: 1rem;
+    width: 50%;
+    height: 30rem;
+    display: flex;
+    flex-flow: column wrap;
+    background-color:#ff9c7f ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    overflow-wrap: break-word;
+    object-position:right;
+    position: relative;
+}
+.box1{
+    display: flex;
+    margin: auto;
+}
+.box2{
+    padding: 0.5rem;
+    border: 0.25rem var(--st-primary-text);
+    border-radius: 1rem;
+    display: flex;
+    background-color:#7acece;
+    margin: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    overflow-wrap: break-word;
+}
+.boxContainer{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.image{
+    height:250px;
+    width: 100%;   
+    object-fit: cover;
+    margin-bottom: 4rem;
+}
+.a{
+    height: 20rem;
+    width: auto;
+    float: right;
+}
+.b{
+    height: 20rem;
+    width: auto;
+    float: right;
+}
+.c{
+    height:18rem;
+    width:aut0;
+    float:left;
+}
+.content{
+    margin: 1rem;
+}
+
+.box2Content{
+    margin:6rem 10rem;
+}
