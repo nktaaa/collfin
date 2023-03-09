@@ -1,5 +1,5 @@
 import React from "react";
-import styles from '../components/Loginbar.module.css';
+import styles from '../components/HeroPage.module.css';
 import image1 from "../components/images/1.png"
 import image2 from "../components/images/2.png"
 import image3 from "../components/images/3.png"
